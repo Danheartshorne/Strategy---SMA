@@ -1,0 +1,2 @@
+# Strategy---SMA
+SMA Strategy
